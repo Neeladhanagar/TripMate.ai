@@ -1,0 +1,6 @@
+{
+  "name": "TicketMate AI",
+  "description": "Complete AI-powered travel discovery, smart budget trip planning, and online ticket booking platform with verified attractions, interactive map routing, multilingual AI assistant, and digital QR turnstile passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
